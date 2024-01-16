@@ -1,0 +1,10 @@
+{
+  "bindings": [
+    {
+      "name": "reloadAllMedicine",
+      "schedule": "0 0 12 * * Tues",
+      "direction": "in",
+      "type": "timerTrigger"
+    }
+  ]
+}
